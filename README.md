@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Likhitha</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
-
-
-<p align="left"> <a href="https://twitter.com/m_likhitha_" target="blank"><img src="https://img.shields.io/twitter/follow/m_likhitha_?logo=twitter&style=for-the-badge" alt="m_likhitha_" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/m_likhitha_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_likhitha_" height="30" width="40" /></a>
