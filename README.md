@@ -1,4 +1,4 @@
-# I'm Likhitha.
+# Hii..I'm Likhitha.
 Aspiring Software Engineer |  B.Tech (Data Science) |Passionate about Open Source, Problem Solving & Building Projects
 - 🌱 I’m currently learning : C++, Git, DSA, Open Source
 - 💼 Working on : DSA, LeetCode, GitHub contributions
